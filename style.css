@@ -1,0 +1,26 @@
+.lists{
+
+    display: flex;
+    margin: auto;
+   
+}
+.unorderedList{
+    /* margin: 200px; */
+    width: 400px;
+}
+.square{
+    list-style: square;
+}
+.none{
+    list-style: none;
+}
+
+.leadingZero{
+    list-style:decimal-leading-zero;
+}
+.lowerCase{
+ list-style: lower-alpha;   
+}
+.roman{
+    list-style: lower-roman;
+}
